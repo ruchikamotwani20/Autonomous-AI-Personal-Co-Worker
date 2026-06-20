@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+langgraph
+gradio
+playwright
+python-dotenv
+requests
+wikipedia
+google-search-results
+pydantic
