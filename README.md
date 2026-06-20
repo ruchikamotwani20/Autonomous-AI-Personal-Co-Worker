@@ -208,8 +208,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Connect
 
-**Aditya Ailsinghani**
+**Ruchika Motwani**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya-ailsinghani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=notion)](https://app.notion.com/p/aditya-ailsinghani/Aditya-Ailsinghani-2e314e3b3c938052b18cd37e56915cd2)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/aditya-ailsinghani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ruchikamotwani20/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=notion)](https://ruchika-motwani.notion.site/portfolio)
+
